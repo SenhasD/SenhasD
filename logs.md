@@ -1,0 +1,1 @@
+- [x] - New profile picture upload
